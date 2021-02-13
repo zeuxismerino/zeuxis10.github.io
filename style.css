@@ -1,0 +1,21 @@
+body{
+    background: slategrey;
+    display: flex;
+}
+
+.container{
+    margin-top: 50px;
+    background: steelblue;
+    height:100px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    
+}
+.hijo{
+    color: rgb(217, 224, 183);
+    text-decoration: sandybrown;
+    text-align: center;
+    font-size: 30px;
+    
+}
